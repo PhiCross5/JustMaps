@@ -10,7 +10,7 @@ Average user (view maps, browse data):
 - lua 5.1 or other compatible interpreter/compiler/JIT
 - GTK libraries 
 - A working graphical environment (e.g. GNOME, KDE Plasma, i3, sway or even a barebones X11 launcher should work fine)
-- luarocks packages: `posix, inotify, lgi`
+- luarocks packages: `posix, inotify, lgi, xmlua`
 - 
 Minimalists, programmers, i3 ricers and the like:
 
