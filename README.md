@@ -1,6 +1,9 @@
 # JustMaps
 Just a map viewer for unix-like systems. 
 
+## Status
+Very early work-in-progress, only very basic parsing via the `OsmParser.lua` script is available right now.
+
 ## Requirements
 Average user (view maps, browse data):
 
